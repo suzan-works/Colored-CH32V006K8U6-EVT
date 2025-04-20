@@ -25,7 +25,9 @@ CH32V006K8U6（RISC‑V 32 bit MCU）を搭載した、カラーシルク基�
 - 開発環境等の設計情報はご自身で調べてご使用ください。
 
 ## 回路図・PCB
-- **回路図**: `https://github.com/suzan-works/Colored-CH32V006K8U6-EVT/blob/main/Schematic1.png`  
-- **基板設計画像**: `https://github.com/suzan-works/Colored-CH32V006K8U6-EVT/blob/main/silk-cu.png`  
+- **回路図**:
+  <https://github.com/suzan-works/Colored-CH32V006K8U6-EVT/blob/main/Schematic1.png>  
+- **基板設計画像**:
+  <https://github.com/suzan-works/Colored-CH32V006K8U6-EVT/blob/main/silk-cu.png>  
 - **EasyEDA プロジェクト**:  
   <https://oshwlab.com/suzan_works/colored-ch32v006k8u6-evt>
