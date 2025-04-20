@@ -31,3 +31,7 @@ CH32V006K8U6（RISC‑V 32 bit MCU）を搭載した、カラーシルク基�
   <https://github.com/suzan-works/Colored-CH32V006K8U6-EVT/blob/main/silk-cu.png>  
 - **EasyEDA プロジェクト**:  
   <https://oshwlab.com/suzan_works/colored-ch32v006k8u6-evt>
+
+## 販売
+- booth
+  <https://suzan-works.booth.pm/items/6826834>
